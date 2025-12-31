@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋 I’m a passionate developer focused on building practical and creative web projects. I love exploring frontend & backend tech, learning new skills, and contributing to open-source.<br>HTML, CSS, JavaScript, React, Node.js<br>LinkedIn: https://www.linkedin.com/in/yuvraj-rajni-sachin-deshmukh-116627283<br>Building responsive UI projects, clones of popular apps, and improving JavaScript skills.<br>🎯 Always learning | 💡 Open to collaboration | 💻 Love solving problems<br>
+Hi there! 👋 I’m a passionate developer focused on building practical and creative web projects. I love exploring frontend & backend tech, learning new skills, and contributing to open-source.<br>HTML, CSS, JavaScript, React, Node.js<br>Building responsive UI projects, clones of popular apps, and improving JavaScript skills.<br>🎯 Always learning | 💡 Open to collaboration | 💻 Love solving problems<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/https://www.instagram.com/yyyuvvvraj](https://instagram.com/yyyuvvvraj
