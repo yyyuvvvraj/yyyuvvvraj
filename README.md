@@ -33,21 +33,6 @@ I love exploring frontend & backend technologies, learning new skills, and contr
 
 ---
 
-## 🧩 Competitive Coding
-
-<p align="center">
-  <a href="https://www.hackerrank.com/yuvraj280605/hackos" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-yuvraj280605-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Problem_Solving-⭐⭐⭐⭐⭐-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Python-⭐⭐⭐⭐-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-⭐⭐⭐-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</p>
-
----
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yyyuvvvraj&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -67,3 +52,6 @@ I love exploring frontend & backend technologies, learning new skills, and contr
 ---
 
 [![](https://visitcount.itsvg.in/api?id=yyyuvvvraj&icon=0&color=7)](https://visitcount.itsvg.in)
+
+
+
