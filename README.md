@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=00F5FF&center=true&vCenter=true&width=780&lines=+PLAYER+2+HAS+ENTERED+THE+GAME...;Full-Stack+%F0%9F%9B%A0%EF%B8%8F+%7C+AI+Researcher+%F0%9F%A4%96+%7C+Open+Source+%F0%9F%8C%8D;B.Tech+CSE+%E2%80%94+Currently+Leveling+Up+%F0%9F%8E%93;Currently+grinding%3A+MERN+%2B+TypeScript+%2B+AI...;Portfolio%3A+www.yyyuvvvraj.com+%F0%9F%9A%80;INSERT+COIN+TO+COLLABORATE+%F0%9F%AA%99" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=00F5FF&center=true&vCenter=true&width=780&lines=+PLAYER+1+HAS+ENTERED+THE+GAME...;Full-Stack+%F0%9F%9B%A0%EF%B8%8F+%7C+AI+Researcher+%F0%9F%A4%96+%7C+Open+Source+%F0%9F%8C%8D;B.Tech+CSE+%E2%80%94+Currently+Leveling+Up+%F0%9F%8E%93;Currently+grinding%3A+MERN+%2B+TypeScript+%2B+AI...;Portfolio%3A+www.yyyuvvvraj.com+%F0%9F%9A%80;INSERT+COIN+TO+COLLABORATE+%F0%9F%AA%99" alt="Typing SVG" />
 
 </div>
 
@@ -183,19 +183,11 @@ const yuvraj = {
 
 ## 🏆 &nbsp;TOP CONTRIBUTED REPOS&nbsp; 🏆
 
-<img src="https://github-contributor-stats.vercel.app/api?username=yyyuvvvraj&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" width="60%"/>
-
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyyuvvvraj&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_radius=15&langs_count=8" width="35%"/>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yyyuvvvraj/yyyuvvvraj/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yyyuvvvraj/yyyuvvvraj/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yyyuvvvraj/yyyuvvvraj/output/github-snake-dark.svg" width="98%"/>
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=yyyuvvvraj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="98%"/>
 
 </div>
 
