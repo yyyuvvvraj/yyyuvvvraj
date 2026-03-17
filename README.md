@@ -125,15 +125,17 @@ const yuvraj = {
 <div align="center">
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  📄  "Improved Secure Communication in Edge AI Through           │
-│       an Efficient DH-AES Hybrid Mechanism"                     │
-│                                                                  │
-│  📰  Journal  : Sadhana (Springer) — Under Review               │
-│  👥  Authors  : Shlok Burmi · Yuvraj Deshmukh                   │
-│                 Sujal Kishore · Zeesha Mishra                   │
-│  🔑  Keywords : Edge AI · Cryptography · DH · AES · Security    │
-└─────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────┐
+│  📄  "Enhanced Alpha-Beta Pruning and Evaluation Function            │
+│       Optimization for Intelligent Pac-Man AI Agents"               │
+│                                                                      │
+│  🏛️  Conference : ICASS-2026 (IEEE)                                  │
+│  📍  Venue     : Manav Rachna University — Feb 12-13, 2026          │
+│  🎯  Focus     : Game Tree Optimization · Adversarial AI            │
+│  🔑  Keywords  : Alpha-Beta Pruning · Heuristics · Multi-Agent AI   │
+│                  Real-Time Decision Making · Search Optimization     │
+│  🙏  Mentors   : Dr. Shweta Malwe · Prof. Prachi Mehta             │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
