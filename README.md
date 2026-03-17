@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=00F5FF&center=true&vCenter=true&width=780&lines=+PLAYER+1+HAS+ENTERED+THE+GAME...;Full-Stack+%F0%9F%9B%A0%EF%B8%8F+%7C+AI+Researcher+%F0%9F%A4%96+%7C+Open+Source+%F0%9F%8C%8D;B.Tech+CSE+%E2%80%94+Currently+Leveling+Up+%F0%9F%8E%93;Currently+grinding%3A+MERN+%2B+TypeScript+%2B+AI...;Portfolio%3A+www.yyyuvvvraj.com+%F0%9F%9A%80;INSERT+COIN+TO+COLLABORATE+%F0%9F%AA%99" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1200&color=00F5FF&center=true&vCenter=true&width=780&lines=+yyyuvvvraj+HAS+ENTERED+THE+GAME...;Full-Stack+%F0%9F%9B%A0%EF%B8%8F+%7C+AI+Researcher+%F0%9F%A4%96+%7C+Open+Source+%F0%9F%8C%8D;B.Tech+CSE+%E2%80%94+Currently+Leveling+Up+%F0%9F%8E%93;Currently+grinding%3A+MERN+%2B+TypeScript+%2B+AI...;Portfolio%3A+www.yyyuvvvraj.com+%F0%9F%9A%80;INSERT+COIN+TO+COLLABORATE+%F0%9F%AA%99" alt="Typing SVG" />
 
 </div>
 
@@ -189,7 +189,7 @@ const yuvraj = {
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=yyyuvvvraj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="98%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yyyuvvvraj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="98%"/>
 
 </div>
 
