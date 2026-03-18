@@ -181,7 +181,7 @@ const yuvraj = {
 
 ---
 
-
+<div align="center">
 
 ## ✍️ &nbsp;RANDOM DEV QUOTE&nbsp; ✍️
 
