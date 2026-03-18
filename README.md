@@ -181,21 +181,7 @@ const yuvraj = {
 
 ---
 
-<div align="center">
 
-## 🏆 &nbsp;TOP CONTRIBUTED REPOS&nbsp; 🏆
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyyuvvvraj&layout=donut-vertical&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_radius=15&langs_count=8" width="35%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=yyyuvvvraj&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="98%"/>
-
-</div>
-
----
-
-<div align="center">
 
 ## ✍️ &nbsp;RANDOM DEV QUOTE&nbsp; ✍️
 
