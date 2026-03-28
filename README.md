@@ -150,15 +150,20 @@ const yuvraj = {
 
 <br/><br/>
 
+<!-- GitHub Stats Card -->
 <img src="https://github-readme-stats.vercel.app/api?username=yyyuvvvraj&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&border_radius=15&include_all_commits=true&count_private=true" width="49%"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=yyyuvvvraj&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&border_radius=15" width="49%"/>
+
+<!-- Streak Stats — using demolab (more stable) -->
+<img src="https://streak-stats.demolab.com/?user=yyyuvvvraj&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&border_radius=15" width="49%"/>
 
 <br/>
 
+<!-- Top Languages Card -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yyyuvvvraj&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&border_radius=15&include_all_commits=true&count_private=true" width="42%"/>
 
 <br/>
 
+<!-- Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=yyyuvvvraj&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff" width="98%"/>
 
 </div>
